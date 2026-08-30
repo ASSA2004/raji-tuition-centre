@@ -1,4 +1,4 @@
-# Raji Tuition Centre — Production Next.js Landing Platform
+# Raji Tuition Centre
 
 A high-performance, responsive landing page engineered for **Raji Tuition Centre** (Tuticorin, Tamil Nadu). Built with Next.js 16 (App Router), React 19, TypeScript, and a motion stack comprising GSAP ScrollTrigger, Lenis Smooth Scroll, and Framer Motion.
 
