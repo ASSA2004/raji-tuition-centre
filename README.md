@@ -84,26 +84,3 @@ pnpm dev
 # 3. Compile optimized production build
 pnpm build
 ```
-
----
-
-## 📝 Recommended Git Commit Workflow (5 Commits)
-
-If pushing this codebase to GitHub, use the following structured commit sequence:
-
-```bash
-# Commit 1: Project Initialization
-git commit -m "feat: initialize Next.js 16 app with Tailwind CSS v4 and TypeScript setup"
-
-# Commit 2: Layout & Brand System
-git commit -m "feat: add single-line responsive navbar, footer, and brand color tokens"
-
-# Commit 3: Interactive Sections & Classes Explorer
-git commit -m "feat: implement interactive classes explorer with 5s/7s timing and timings hub"
-
-# Commit 4: Motion System & GSAP ScrollTrigger
-git commit -m "feat: integrate GSAP ScrollTrigger sticky 4-step learning approach and Lenis smooth scroll"
-
-# Commit 5: SEO Schemas & Form Validation
-git commit -m "feat: add JSON-LD EducationalOrganization schema, form validation, and production optimization"
-```
